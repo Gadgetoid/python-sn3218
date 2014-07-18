@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+1.1dev
+------
+- Added handling for lists of pins/values, can set multiple pins to one value etc
+
 1.0dev
 -------
 - Initial experimental module

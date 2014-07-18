@@ -33,7 +33,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware']
 
 setup(name		= 'sn3218',
-	version		= '1.0dev',
+	version		= '1.1dev',
 	author		= 'Philip Howard',
 	author_email	= 'phil@gadgetoid.com',
 	description	= 'A module to drive the sn3218 i2c LED controller',
